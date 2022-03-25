@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "sinatra", "~> 2.1"
+
+#in order to run sinatra we have to get the gem file and run "bundle" in our Sinatra dicrectory. As a result creates our Gemfile.lock
